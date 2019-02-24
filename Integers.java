@@ -8,6 +8,7 @@ class Integers {
       System.out.println(c);
     }
   }
+<<<<<<< HEAD
 }class Integers {
   public static void main(String[] arguments) {
     int c; //declaring a variable
@@ -18,4 +19,6 @@ class Integers {
       System.out.println(c);
     }
   }
+=======
+>>>>>>> ac368511cc1563e5f47951f5efe43e6f02a77c2f
 }
