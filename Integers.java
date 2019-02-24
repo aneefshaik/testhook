@@ -4,7 +4,7 @@ class Integers {
  
   /* Using for loop to repeat instruction execution */
 
-    for (c = 1; c <= 13; c++) {
+    for (c = 1; c <= 14; c++) {
       System.out.println(c);
     }
   }
